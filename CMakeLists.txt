@@ -1,5 +1,3 @@
-# This is just the example top-level CMakeLists.txt file. I have no idea how it's
-# actually supposed to be used just yet.
 cmake_minimum_required(VERSION 3.13)
 
 project(freertos_examples)
